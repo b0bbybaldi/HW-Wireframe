@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+}
+
+header {
+}
+
+#section {
+}
+
+#article {
+}
+
+#hx {
+}
+
+#p {
+}
+
+#aside {
+
+}
+
+footer {
+  padding: 20px;
+  margin-bottom: 20px;
+  color: #333;
+  background: #ccc;
+}
